@@ -1,0 +1,7 @@
+export const CALENDAR_TYPE = {
+  ONE_DAY: "ONE_DAY",
+  THREE_DAYS: "THREE_DAYS",
+  WEEK_DAYS: "WEEK_DAYS",
+  WEEK: "WEEK",
+  MONTH: "MONTH",
+};
